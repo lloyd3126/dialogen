@@ -13,8 +13,8 @@
 ### 功能特色
 
 - ✨ **對話式介面**：使用對話序列來引導 AI 生成內容
-- 🎨 **圖片生成**：使用 Gemini 2.0 Pro Image Preview 生成高品質圖片
-- 📝 **文字生成**：使用 Gemini 2.0 Flash 快速生成文字內容
+- 🎨 **圖片生成**：使用 Gemini 3.0 Pro Image 生成高品質圖片
+- 📝 **文字生成**：使用 Gemini 3.0 Flash 快速生成文字內容
 - 🔄 **靈活編輯**：可自由新增、刪除、移動對話內容
 - 🖼️ **多種圖片設定**：支援多種長寬比（1:1, 2:3, 3:2, 16:9, 9:16）和解析度（1K, 2K, 4K）
 - 💾 **自動儲存**：對話內容自動儲存至瀏覽器，下次開啟自動載入
@@ -54,8 +54,8 @@
 
 - **前端**：原生 JavaScript、HTML、CSS
 - **API**：Google Gemini API
-  - 圖片生成：`gemini-2.0-pro-image-preview`
-  - 文字生成：`gemini-2.0-flash-preview`
+  - 圖片生成：`gemini-3.0-pro-image-preview`
+  - 文字生成：`gemini-3.0-flash-preview`
 - **儲存**：瀏覽器 localStorage
 
 ### 本地開發
@@ -99,8 +99,8 @@ A simple and intuitive Gemini AI content generation tool that allows you to cont
 ### Features
 
 - ✨ **Dialogue Interface**: Guide AI content generation using conversation sequences
-- 🎨 **Image Generation**: Generate high-quality images using Gemini 2.0 Pro Image Preview
-- 📝 **Text Generation**: Fast text generation using Gemini 2.0 Flash
+- 🎨 **Image Generation**: Generate high-quality images using Gemini 3.0 Pro Image
+- 📝 **Text Generation**: Fast text generation using Gemini 3.0 Flash
 - 🔄 **Flexible Editing**: Freely add, delete, and rearrange dialogue content
 - 🖼️ **Multiple Image Settings**: Support various aspect ratios (1:1, 2:3, 3:2, 16:9, 9:16) and resolutions (1K, 2K, 4K)
 - 💾 **Auto-save**: Dialogue content automatically saved to browser and restored on next visit
@@ -140,8 +140,8 @@ A simple and intuitive Gemini AI content generation tool that allows you to cont
 
 - **Frontend**: Vanilla JavaScript, HTML, CSS
 - **API**: Google Gemini API
-  - Image generation: `gemini-2.0-pro-image-preview`
-  - Text generation: `gemini-2.0-flash-preview`
+  - Image generation: `gemini-3.0-pro-image-preview`
+  - Text generation: `gemini-3.0-flash-preview`
 - **Storage**: Browser localStorage
 
 ### Local Development
